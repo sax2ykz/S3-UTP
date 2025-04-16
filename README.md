@@ -1,0 +1,1 @@
+-e "# Proyecto S3\n\nEste proyecto es una p gina HTML b sica creada como pr ctica para entender commits, diffs y estructuras de HTML.\n\n## Instalaci¢n\n\n1. Clona el repositorio\n2. Abre el archivo index.html\n\n##Contenido\n-index.html\n-README.md\n\n##Tecnolog¡as usadas\n\n-HTML\n-Git" 
