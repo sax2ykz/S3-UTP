@@ -1,1 +1,20 @@
--e "# Proyecto S3\n\nEste proyecto es una p gina HTML b sica creada como pr ctica para entender commits, diffs y estructuras de HTML.\n\n## Instalaci¢n\n\n1. Clona el repositorio\n2. Abre el archivo index.html\n\n## Contenido\n- index.html\n- README.md\n\n## Tecnolog¡as usadas\n\n- HTML\n- Git" 
+# Proyecto S3
+
+Este proyecto es una página HTML básica creada como práctica para entender commits, diffs y estructuras de HTML.
+
+## Instalación
+
+1. Clona el repositorio
+2. Abre el archivo index.html
+
+## Contenido
+
+- index.html
+- README.md
+
+## Tecnologías usadas
+
+- HTML
+- Git
+
+[Github](https://github.com/sax2ykz/S3-UTP)
